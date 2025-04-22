@@ -32,7 +32,7 @@ The HeadSpin plugin is hosted at [https://plugins.jenkins.io/headspin](https://p
 8. Add HeadSpin Tests with selectors that choose a device and commands that run automation scripts.
 
    For example:
-   ![Screenshot](docs/images/settings.png)
+   ![Screenshot](images/settings.png)
 9. Save.
 
 
@@ -41,13 +41,13 @@ The HeadSpin plugin is hosted at [https://plugins.jenkins.io/headspin](https://p
 ### Summary
 Summary page shows device views of running tests.
 
-![Screenshot](docs/images/summary.png)
+![Screenshot](images/summary.png)
 
 
 ### Analysis
 Analysis page ("HeadSpin Report") gives useful information about performance of your app.
 
-![Screenshot](docs/images/analysis.png)
+![Screenshot](images/analysis.png)
 
 
 ## Changelog
