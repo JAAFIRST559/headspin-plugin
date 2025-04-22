@@ -1,7 +1,3 @@
-# No Longer Supported
-
-This plugin is no longer supported and maintained by HeadSpin.
-
 
 # HeadSpin Jenkins Integration
 
